@@ -34,7 +34,7 @@ let jsonData = {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [173.68222, -42.41167]
+                "coordinates": [10.891667, 49.891667]
             },
             "properties": {
                 "user": "lealucia",
