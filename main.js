@@ -6,3 +6,11 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 var marker = L.marker([45.9369, 7.86675]).addTo(map);
 marker.bindPopup("<b>Dufourspitze</b><br>4634 m").openPopup();
+
+//marker zeigen
+console.log(marker)
+
+/*
+let age = 10;
+console.log(age)
+*/
